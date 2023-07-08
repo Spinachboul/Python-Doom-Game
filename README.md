@@ -1,5 +1,3 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
-
-Control: 'WASD' + mouse
+Python DOOM game made using Raycasting Algorithm and PyGame Library
 
 ![doom](/sreenshots/0.jpg)
